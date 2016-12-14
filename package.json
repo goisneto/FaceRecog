@@ -1,7 +1,6 @@
 {
   "name": "FaceRecog",
   "version": "0.0",
-  ...
   "engines": {
     "node": "7.2.1"
   },
