@@ -1,6 +1,22 @@
 {
   "name": "FaceRecog",
-  "version": "0.0",
+  "version": "1.0.0",
+  "main": "proc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "description": "FaceRecog",
+  "keywords": [],
+  "author": "goisneto",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/goisneto/FaceRecog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/goisneto/FaceRecog/issues"
+  },
+  "homepage": "https://github.com/goisneto/FaceRecog",
   "engines": {
     "node": "7.2.1"
   },
