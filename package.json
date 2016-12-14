@@ -1,0 +1,11 @@
+{
+  "name": "FaceRecog",
+  "version": "0.0",
+  ...
+  "engines": {
+    "node": "7.2.1"
+  },
+  "dependencies": {
+    "web-terminal": "0.7.0"
+  }
+}
