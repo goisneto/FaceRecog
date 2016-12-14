@@ -1,3 +1,6 @@
+sudo
+aptitude
+libboost-dev
 build-essential
 libpam0g-dev
 cmake
@@ -16,4 +19,4 @@ libpng-dev
 libtiff-dev
 libjasper-dev
 libdc1394-22-dev
-&& ls
+libfreetype-dev
