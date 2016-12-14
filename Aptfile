@@ -1,4 +1,5 @@
 build-essential
+libboost-all-dev
 libpam0g-dev
 cmake
 git
