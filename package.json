@@ -5,6 +5,7 @@
     "node": "7.2.1"
   },
   "dependencies": {
+    "http-server": "0.9.0",
     "web-terminal": "0.7.0"
   }
 }
