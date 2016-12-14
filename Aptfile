@@ -6,3 +6,4 @@ git
 python-dev
 python-numpy
 build-essential
+libpam0g-dev
