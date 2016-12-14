@@ -1,0 +1,8 @@
+sudo
+aptitude
+libboost-dev
+cmake
+git
+python-dev
+python-numpy
+build-essential
